@@ -1,4 +1,4 @@
-## How to get started `Salon Box Admin`
+## How to get started `React JS Firebase Starter`
 
 Clone this repository:
 
