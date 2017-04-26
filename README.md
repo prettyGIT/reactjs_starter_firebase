@@ -3,8 +3,8 @@
 Clone this repository:
 
 ```sh
-git clone https://github.com/mikechangsf/salonbox_admin_node
-cd salonbox_admin_node
+git clone https://github.com/prettyGIT/reactjs_starter_firebase
+cd reactjs_starter_firebase
 ```
 
 Install dependencies:
